@@ -1,4 +1,3 @@
-# 4R3B3LatH34R7
 ESP01-DC12V-2Relays-Blynk
 
 This board was bought on shopee.sg at SGD7.24 excluding shipping. ESP01 included.
