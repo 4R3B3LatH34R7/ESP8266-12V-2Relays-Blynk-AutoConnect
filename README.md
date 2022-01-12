@@ -10,3 +10,24 @@ An example ino was also found on GitHub outlining how Serial.write was used to s
 I thought the relays were controlled by IO pins.
 Adapted my code to get the board to work with Blynk. WiFi Config will be added in another commit soon.
 Started learning about GitHub too.
+
+***
+## License
+I don't actually like/want/wish to apply CC BY-SA license to what I share, really!\
+However, there exists some jerks in this world who thought it's ok to derive my work without proper accreditation.\
+I don't care much for fame nor finance but a little credit for the many hours of my limited life I spent on a project is appreciated.\
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+***
+
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/knlqwk4f5p3jdsdf2q4k" alt="trackgit-views" />
+</a>
