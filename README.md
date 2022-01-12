@@ -29,5 +29,5 @@ This work is licensed under a
 ***
 
  <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/knlqwk4f5p3jdsdf2q4k" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kybc0p67y6f363p9p4fk" alt="trackgit-views" />
 </a>
